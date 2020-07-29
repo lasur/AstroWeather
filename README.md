@@ -1,2 +1,2 @@
 # AstroWeather
-Android app showing weather informations about city selected by user.
+Android app written in Java showing weather informations about city selected by user.
